@@ -1,5 +1,7 @@
 # Calculator App
-###JavaScript based Calculator App
+### JavaScript based Calculator App
+##### JavaScript based Calculator App
+
 
 ![Home Screen](/images/Home-Screen.png)
 
